@@ -13,5 +13,6 @@ public class Exercicio_1 {
             i++;
         }
 
+        scan.close();
     }
 }
